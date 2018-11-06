@@ -1,0 +1,46 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Simply Dark",
+  "theme": {
+    "colors": {
+      "frame": [
+        50,
+        50,
+        50
+      ],
+      "toolbar": [
+        75,
+        75,
+        75
+      ],
+      "tab_text": [
+        230,
+        230,
+        230
+      ],
+      "tab_background_text": [
+        130,
+        130,
+        130
+      ],
+      "bookmark_text": [
+        200,
+        200,
+        200
+      ]
+    },
+    "tints": {
+      "frame_inactive": [
+        -1,
+        0,
+        0.35
+      ],
+      "buttons": [
+        -1,
+        -1,
+        0.75
+      ]
+    }
+  }
+}
